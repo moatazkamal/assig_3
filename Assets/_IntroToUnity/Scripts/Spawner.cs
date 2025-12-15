@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 public class Spawner : MonoBehaviour
 {
     public GameObject prefab;

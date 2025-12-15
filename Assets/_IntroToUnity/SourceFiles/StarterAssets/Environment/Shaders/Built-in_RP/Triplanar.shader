@@ -1,4 +1,4 @@
-﻿Shader "Starter Assets/Triplanar" {
+Shader "Starter Assets/Triplanar" {
 Properties{
     _MainTex("Albedo (RGB)", 2D) = "white" {}
     [NoScaleOffset] _BumpMap("Normal Map", 2D) = "bump" {}
